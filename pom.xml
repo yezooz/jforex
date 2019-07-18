@@ -52,7 +52,7 @@
             <!-- find the latest available version here:
                 http://www.dukascopy.com/client/jforexlib/publicrepo/com/dukascopy/dds2/DDS2-jClient-JForex/
             -->
-            <version>2.31</version>
+            <version>3.6.1</version>
             <exclusions>
                 <exclusion>
                     <groupId>org.slf4j</groupId>
